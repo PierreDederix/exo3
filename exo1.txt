@@ -6,3 +6,16 @@
  * Écrire le programme qui affiche les tables de multiplication de 1 à 10. 
  */
 
+Début prog
+
+Variables locales
+
+Fin variables locales
+
+pour i allant de 1 à 10
+	pour j allant de 1 à 10
+		afficher i, " x ", j, " = " i*j
+	j suivant
+i suivant
+
+Fin prog
