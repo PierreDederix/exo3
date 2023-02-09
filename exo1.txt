@@ -1,0 +1,8 @@
+/*****************************************************
+ * 8.1 Boucles imbriquées : Tables de multiplication *
+ *****************************************************/
+
+/* 
+ * Écrire le programme qui affiche les tables de multiplication de 1 à 10. 
+ */
+
